@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love Cats 🐱
 
-[![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni)](https://github.com/anuraghazra/github-readme-stats)
+[![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni)](https://github.com/NickolasFchinni/github-readme-stats)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Nickolas Faquini github stats" /> 
