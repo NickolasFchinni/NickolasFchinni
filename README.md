@@ -1,5 +1,6 @@
-
-  ![Olá, Eu sou o Nickolas Faquini!](https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=transparent)
+### Olá! Eu sou o Nickolas Faquini✌️
+  
+  ![Nickolas Faquini Stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=transparent)
 
  
  ### Main skills:
