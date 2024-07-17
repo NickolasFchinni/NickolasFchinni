@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nickolas Faquini✌️
 Apaixonado por tecnologia e inovação.
 
-![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=radical)
+![Nickolas Faquini Stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=transparent)
 
 
 ## Tecnologias que uso no meu dia:
