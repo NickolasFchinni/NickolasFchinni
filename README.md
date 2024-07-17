@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Nickolas Faquini✌️
 Apaixonado por tecnologia e inovação.
-  
+
+<div>
 ![Nickolas Faquini Stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasFchinni&hide_progress=true)
+</div>
 
 ## Tecnologias que uso no meu dia:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
