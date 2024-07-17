@@ -1,12 +1,7 @@
 ### Olá! Eu sou o Nickolas Faquini✌️
 Apaixonado por tecnologia e inovação.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickolasFchinni&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasFchinni&show_icons=true&theme=radical)
 
 
 ## Tecnologias que uso no meu dia:
